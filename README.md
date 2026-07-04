@@ -1,6 +1,4 @@
 <h1 align='center'>Sales Performance Dashboard</h1>
----
-Project Overview
 This project demonstrates the complete process of cleaning a messy sales dataset and building an interactive dashboard using Microsoft Excel. The dataset contained missing values, duplicate records, inconsistent text, mixed date formats, and invalid entries. After cleaning the data, Pivot Tables, Pivot Charts, Slicers, and Timeline were used to create an interactive sales dashboard.
 ---
 Tools Used
@@ -79,10 +77,10 @@ Project Structure
 Sales-Dashboard/
 
 │── Dataset/
-│     sales_messy_dataset.xlsx
+│     sales\_messy\_dataset.xlsx
 
 │── Dashboard/
-│     Sales_Dashboard.xlsx
+│     Sales\_Dashboard.xlsx
 
 │── Screenshots/
 │     Dashboard.png
@@ -98,5 +96,5 @@ The cleaned dataset was transformed into an interactive Excel dashboard that ena
 ---
 Author
 Your Name Kashyap Patel
-GitHub: https://github.com/KashyapPatel1574/Sales_Ananlysis_Dashbord.git
+GitHub:
 LinkedIn:
