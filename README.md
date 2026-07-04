@@ -1,100 +1,141 @@
 <h1 align='center'>Sales Performance Dashboard</h1>
+
+## Project Overview
+
 This project demonstrates the complete process of cleaning a messy sales dataset and building an interactive dashboard using Microsoft Excel. The dataset contained missing values, duplicate records, inconsistent text, mixed date formats, and invalid entries. After cleaning the data, Pivot Tables, Pivot Charts, Slicers, and Timeline were used to create an interactive sales dashboard.
+
 ---
-Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Timeline
-Conditional Formatting
+
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Timeline
+- Conditional Formatting
+
 ---
-Dataset
+
+## Dataset
+
 The dataset contains sales transaction data including:
-Order ID
-Customer Name
-Gender
-Email
-Phone Number
-Product
-Category
-Quantity
-Unit Price
-Order Date
-Ship Date
-City
-State
-Region
-Payment Mode
+
+- Order ID
+- Customer Name
+- Gender
+- Email
+- Phone Number
+- Product
+- Category
+- Quantity
+- Unit Price
+- Order Date
+- Ship Date
+- City
+- State
+- Region
+- Payment Mode
+
 ---
-Data Cleaning
+
+## Data Cleaning
+
 The following cleaning operations were performed in Microsoft Excel:
-Removed blank Order IDs
-Removed duplicate records
-Removed repeated header rows
-Trimmed extra spaces
-Standardized Customer Names
-Standardized Gender values
-Filled missing Email values
-Standardized Product names
-Standardized Categories
-Cleaned Quantity values
-Removed currency symbols from Unit Price
-Converted mixed date formats into valid Excel dates
-Standardized Phone Numbers
-Standardized Region values
-Corrected State names
-Standardized Payment Modes
+
+- Removed blank Order IDs
+- Removed duplicate records
+- Removed repeated header rows
+- Trimmed extra spaces
+- Standardized Customer Names
+- Standardized Gender values
+- Filled missing Email values
+- Standardized Product names
+- Standardized Categories
+- Cleaned Quantity values
+- Removed currency symbols from Unit Price
+- Converted mixed date formats into valid Excel dates
+- Standardized Phone Numbers
+- Standardized Region values
+- Corrected State names
+- Standardized Payment Modes
+
 ---
-Dashboard Features
+
+## Dashboard Features
+
 The dashboard includes:
-KPI Cards
-Total Sales
-Total Orders
-Average Sales
-Total Quantity
-Monthly Sales Trend
-Sales by Category
-Sales by Region
-Payment Mode Analysis
-Top Selling Products
-Interactive Slicers
-Timeline Filter
+
+- KPI Cards
+  - Total Sales
+  - Total Orders
+  - Average Sales
+  - Total Quantity
+
+- Monthly Sales Trend
+
+- Sales by Category
+
+- Sales by Region
+
+- Payment Mode Analysis
+
+- Top Selling Products
+
+- Interactive Slicers
+
+- Timeline Filter
+
 ---
-Excel Features Used
-Power Query
-Remove Duplicates
-Text Functions
-Date Conversion
-Pivot Tables
-Pivot Charts
-Slicers
-Timeline
-Conditional Formatting
+
+## Excel Features Used
+
+- Remove Duplicates
+- Text Functions
+- Date Conversion
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Timeline
+- Conditional Formatting
+
 ---
-Project Structure
+
+## Project Structure
+
 ```
 Sales-Dashboard/
 
 │── Dataset/
-│     sales\_messy\_dataset.xlsx
+│     sales_messy_dataset.xlsx
 
 │── Dashboard/
-│     Sales\_Dashboard.xlsx
+│     Sales_Dashboard.xlsx
 
 │── Screenshots/
 │     Dashboard.png
 
 │── README.md
 ```
+
 ---
-Dashboard Preview
-![Dashboard_img](./Assets/Dashboard%20bg.png)
+
+## Dashboard Preview
+
+![dashboard_png](./Assets/Dashboard%20bg.png)
+
 ---
-Outcome
+
+## Outcome
+
 The cleaned dataset was transformed into an interactive Excel dashboard that enables quick analysis of sales performance using filters, charts, KPIs, and timelines.
+
 ---
-Author
-Your Name Kashyap Patel
-GitHub:
+
+## Author
+
+Your Name: Kashyap Patel
+
+GitHub: https://github.com/KashyapPatel1574/Sales_Ananlysis_Dashbord.git
+
 LinkedIn:
